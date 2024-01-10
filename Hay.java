@@ -1,0 +1,3 @@
+class Hay {
+  String i = "";
+}
